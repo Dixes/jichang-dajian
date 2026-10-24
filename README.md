@@ -30,6 +30,7 @@
 - [Hysteria2 端口跳跃（Port Hopping）配置](guides/hysteria2-port-hopping.md)
 - [Cloudflare 橙云和灰云对节点有什么影响](guides/cloudflare-orange-vs-grey.md)
 - [1G 小内存 VPS 跑面板的优化清单](guides/low-memory-vps-panel.md)
+- [面板机与落地机分离部署注意事项](guides/panel-node-separation.md)
 
 ## 适合谁
 
