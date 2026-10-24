@@ -10,6 +10,11 @@
 - [VLESS + Reality 节点搭建](guides/vless-reality-setup.md)
 - [Hysteria2 节点搭建与调优](guides/hysteria2-server-setup.md)
 - [域名与 Cloudflare 配置要点](guides/domain-cloudflare-setup.md)
+- [反代与证书：Caddy/Nginx + 自动续期](guides/caddy-nginx-tls.md)
+- [中转机端口转发：realm / iptables 实操](guides/relay-forward-setup.md)
+- [落地机怎么选：线路、带宽与住宅 IP](guides/landing-server-choice.md)
+- [面板节点分组与倍率设置](guides/node-groups-multiplier.md)
+- [订阅安全：防泄露与链接重置](guides/subscription-security.md)
 
 ## 适合谁
 
