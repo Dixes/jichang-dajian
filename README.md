@@ -15,6 +15,11 @@
 - [落地机怎么选：线路、带宽与住宅 IP](guides/landing-server-choice.md)
 - [面板节点分组与倍率设置](guides/node-groups-multiplier.md)
 - [订阅安全：防泄露与链接重置](guides/subscription-security.md)
+- [面板对接支付：易支付与套餐定价](guides/payment-gateway-setup.md)
+- [自建订阅转换（subconverter）](guides/subconverter-setup.md)
+- [VLESS + WS + TLS + CDN 传统方案](guides/vless-ws-tls-cdn.md)
+- [sing-box 做服务端：手动配置入门](guides/sing-box-server.md)
+- [Trojan 与 Shadowsocks 节点速通](guides/trojan-ss-setup.md)
 
 ## 适合谁
 
