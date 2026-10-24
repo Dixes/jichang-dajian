@@ -20,6 +20,10 @@
 - [VLESS + WS + TLS + CDN 传统方案](guides/vless-ws-tls-cdn.md)
 - [sing-box 做服务端：手动配置入门](guides/sing-box-server.md)
 - [Trojan 与 Shadowsocks 节点速通](guides/trojan-ss-setup.md)
+- [机场运维：日志查看与状态监控](guides/ops-monitor-logging.md)
+- [节点被封排查与换 IP 流程](guides/node-blocked-troubleshoot.md)
+- [面板数据备份与服务器迁移](guides/backup-migration.md)
+- [机场成本核算：一台机场每月花多少钱](guides/airport-cost.md)
 
 ## 适合谁
 
