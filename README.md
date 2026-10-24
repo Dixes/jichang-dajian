@@ -32,6 +32,7 @@
 - [1G 小内存 VPS 跑面板的优化清单](guides/low-memory-vps-panel.md)
 - [面板机与落地机分离部署注意事项](guides/panel-node-separation.md)
 - [节点端 API 防护：只允许面板 IP 访问](guides/node-api-firewall.md)
+- [Let's Encrypt 证书自动续期失败排查](guides/cert-renew-failed.md)
 
 ## 适合谁
 
