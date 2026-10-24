@@ -34,6 +34,7 @@
 - [节点端 API 防护：只允许面板 IP 访问](guides/node-api-firewall.md)
 - [Let's Encrypt 证书自动续期失败排查](guides/cert-renew-failed.md)
 - [realm 转发 UDP 的配置要点](guides/realm-udp-forward.md)
+  - [晚高峰丢包：落地机开启 BBR 与 TCP 调优](guides/bbr-tcp-tuning.md)
 
 ## 适合谁
 
