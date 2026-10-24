@@ -34,7 +34,8 @@
 - [节点端 API 防护：只允许面板 IP 访问](guides/node-api-firewall.md)
 - [Let's Encrypt 证书自动续期失败排查](guides/cert-renew-failed.md)
 - [realm 转发 UDP 的配置要点](guides/realm-udp-forward.md)
--  [晚高峰丢包：落地机开启 BBR 与 TCP 调优](guides/bbr-tcp-tuning.md)
+- [晚高峰丢包：落地机开启 BBR 与 TCP 调优](guides/bbr-tcp-tuning.md)
+- [Xboard 数据库备份：MySQL 导出导入实操](guides/xboard-mysql-backup.md)
 
 ## 适合谁
 
@@ -46,4 +47,4 @@
 
 教程里的命令以 Debian / Ubuntu + Docker 环境为主。搭机场需要一台境外 VPS 和一个域名，文中的示例域名请替换成你自己的。
 
-如果只是想科学上网、不想折腾服务器，也可以直接用现成的订阅服务（比如 [漫画机场](https://vps.manhuajichang.fun)，¥10/月起），省去运维时间——本仓库的教程更适合愿意自己动手的人。
+如果只是想科学上网、不想折腾服务器，也可以直接用现成的订阅服务（比如[漫画机场](https://vps.manhuajichang.fun)，¥10/月起），省去运维时间——本仓库的教程更适合愿意自己动手的人。
