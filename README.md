@@ -27,6 +27,7 @@
 - [Xboard 部署后容器起不来：常见报错排查](guides/xboard-docker-troubleshoot.md)
 - [V2bX 对接失败：面板显示节点离线怎么办](guides/v2bx-offline-troubleshoot.md)
 - [Reality 的 dest 怎么选：借用站点与密钥生成](guides/reality-dest-guide.md)
+- [Hysteria2 端口跳跃（Port Hopping）配置](guides/hysteria2-port-hopping.md)
 
 ## 适合谁
 
