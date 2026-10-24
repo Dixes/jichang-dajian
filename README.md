@@ -37,6 +37,7 @@
 - [晚高峰丢包：落地机开启 BBR 与 TCP 调优](guides/bbr-tcp-tuning.md)
 - [Xboard 数据库备份：MySQL 导出导入实操](guides/xboard-mysql-backup.md)
 - [订阅链接被滥用怎么办：设备数与 IP 限制](guides/subscription-abuse-limit.md)
+- [易支付对接常见坑：异步通知验签失败](guides/epay-notify-sign.md)
 
 ## 适合谁
 
