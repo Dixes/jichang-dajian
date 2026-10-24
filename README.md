@@ -24,6 +24,7 @@
 - [节点被封排查与换 IP 流程](guides/node-blocked-troubleshoot.md)
 - [面板数据备份与服务器迁移](guides/backup-migration.md)
 - [机场成本核算：一台机场每月花多少钱](guides/airport-cost.md)
+- [Xboard 部署后容器起不来：常见报错排查](guides/xboard-docker-troubleshoot.md)
 
 ## 适合谁
 
