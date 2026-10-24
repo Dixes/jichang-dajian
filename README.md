@@ -28,6 +28,7 @@
 - [V2bX 对接失败：面板显示节点离线怎么办](guides/v2bx-offline-troubleshoot.md)
 - [Reality 的 dest 怎么选：借用站点与密钥生成](guides/reality-dest-guide.md)
 - [Hysteria2 端口跳跃（Port Hopping）配置](guides/hysteria2-port-hopping.md)
+- [Cloudflare 橙云和灰云对节点有什么影响](guides/cloudflare-orange-vs-grey.md)
 
 ## 适合谁
 
