@@ -56,6 +56,7 @@
 - [Nginx 反代面板出现 502 Bad Gateway：上游端口与超时排查](guides/nginx-panel-502-troubleshoot.md)
 - [Cloudflare 回源 521/522 导致面板订阅拉取失败：源站端口与防火墙排查](guides/cloudflare-origin-521-522.md)
 
+- [V2bX 报 API 密钥无效：面板与节点端密钥同步排查](guides/v2bx-invalid-api-key.md)
 ## 适合谁
 
 - 想自己搭机场自用或小圈子分享的
