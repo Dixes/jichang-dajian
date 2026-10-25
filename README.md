@@ -45,6 +45,8 @@
 - - [Debian 12 和 Ubuntu 24.04 装节点端的区别](guides/debian-vs-ubuntu-node.md)
 - - [落地机是不是被墙了：常用检测方法](guides/node-blocked-check.md)
   - - [机场域名怎么选：后缀、长度与解析商](guides/airport-domain-choice.md)
+- [面板公告与工单功能怎么用](guides/panel-notice-ticket.md)
+
 
 ## 适合谁
 
