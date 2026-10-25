@@ -39,6 +39,7 @@
 - [订阅链接被滥用怎么办：设备数与 IP 限制](guides/subscription-abuse-limit.md)
 - [易支付对接常见坑：异步通知验签失败](guides/epay-notify-sign.md)
 - - [Hysteria2 和 VLESS Reality 到底选哪个](guides/hy2-vs-reality.md)
+- [VPS 安全基线：改 SSH 端口、密钥登录、关密码](guides/vps-ssh-hardening.md)
 
 ## 适合谁
 
