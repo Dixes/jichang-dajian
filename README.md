@@ -54,6 +54,7 @@
   - [面板机与节点端系统时间不同步导致节点认证失败：NTP 校时排查](guides/panel-node-time-sync-ntp.md)
 
 - [Nginx 反代面板出现 502 Bad Gateway：上游端口与超时排查](guides/nginx-panel-502-troubleshoot.md)
+- [Cloudflare 回源 521/522 导致面板订阅拉取失败：源站端口与防火墙排查](guides/cloudflare-origin-521-522.md)
 
 ## 适合谁
 
