@@ -48,6 +48,7 @@
 - [面板公告与工单功能怎么用](guides/panel-notice-ticket.md)
 - [Redis 在 Xboard 里起什么作用、挂了什么表现](guides/xboard-redis-role.md)
 - [同一节点挂多台落地：面板配置思路](guides/multi-landing-one-node.md)
+- [Caddy 反代面板的完整配置示例](guides/caddy-reverse-proxy-panel.md)
 
 
 ## 适合谁
