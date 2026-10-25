@@ -49,6 +49,7 @@
 - [Redis 在 Xboard 里起什么作用、挂了什么表现](guides/xboard-redis-role.md)
 - [同一节点挂多台落地：面板配置思路](guides/multi-landing-one-node.md)
 - [Caddy 反代面板的完整配置示例](guides/caddy-reverse-proxy-panel.md)
+- [面板机磁盘爆满导致订阅生成失败：日志定位与清理实操](guides/panel-disk-full-troubleshoot.md)
 
 
 ## 适合谁
