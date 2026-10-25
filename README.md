@@ -57,7 +57,9 @@
 - [Cloudflare 回源 521/522 导致面板订阅拉取失败：源站端口与防火墙排查](guides/cloudflare-origin-521-522.md)
 
 - [V2bX 报 API 密钥无效：面板与节点端密钥同步排查](guides/v2bx-invalid-api-key.md)
-## 适合谁
+
+- [V2bX 更新后节点全部离线：版本回滚与兼容排查](guides/v2bx-update-offline-rollback.md)
+- ## 适合谁
 
 - 想自己搭机场自用或小圈子分享的
 - 已经在运营机场、想补齐中转 / 落地 / 运维短板的
