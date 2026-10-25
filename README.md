@@ -47,6 +47,7 @@
   - - [机场域名怎么选：后缀、长度与解析商](guides/airport-domain-choice.md)
 - [面板公告与工单功能怎么用](guides/panel-notice-ticket.md)
 - [Redis 在 Xboard 里起什么作用、挂了什么表现](guides/xboard-redis-role.md)
+- [同一节点挂多台落地：面板配置思路](guides/multi-landing-one-node.md)
 
 
 ## 适合谁
