@@ -40,6 +40,7 @@
 - [易支付对接常见坑：异步通知验签失败](guides/epay-notify-sign.md)
 - - [Hysteria2 和 VLESS Reality 到底选哪个](guides/hy2-vs-reality.md)
 - [VPS 安全基线：改 SSH 端口、密钥登录、关密码](guides/vps-ssh-hardening.md)
+- - [面板安全加固：后台改路径与登录保护](guides/panel-security-hardening.md)
 
 ## 适合谁
 
