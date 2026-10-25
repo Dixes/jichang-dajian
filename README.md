@@ -53,6 +53,7 @@
 - - [MySQL 8.0 下 Xboard 报 caching_sha2_password 认证失败：面板连库排查](guides/xboard-mysql8-auth-failed.md)
   - [面板机与节点端系统时间不同步导致节点认证失败：NTP 校时排查](guides/panel-node-time-sync-ntp.md)
 
+- [Nginx 反代面板出现 502 Bad Gateway：上游端口与超时排查](guides/nginx-panel-502-troubleshoot.md)
 
 ## 适合谁
 
