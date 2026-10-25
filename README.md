@@ -43,6 +43,7 @@
 - [面板安全加固：后台改路径与登录保护](guides/panel-security-hardening.md)
 - [V2bX 流量统计不准的排查顺序](guides/v2bx-traffic-stats.md)
 - - [Debian 12 和 Ubuntu 24.04 装节点端的区别](guides/debian-vs-ubuntu-node.md)
+- - [落地机是不是被墙了：常用检测方法](guides/node-blocked-check.md)
 
 ## 适合谁
 
