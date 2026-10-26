@@ -60,6 +60,7 @@
 
 - [V2bX 更新后节点全部离线：版本回滚与兼容排查](guides/v2bx-update-offline-rollback.md)
 - [V2bX 节点端报 websocket: bad handshake：反代与传输路径排查](guides/v2bx-websocket-bad-handshake.md)
+- [V2bX 在 Debian 12 上报 too many open files：句柄数与连接数调优](guides/v2bx-debian12-too-many-open-files.md)
 - ## 适合谁
 
 - 想自己搭机场自用或小圈子分享的
