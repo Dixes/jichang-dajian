@@ -59,6 +59,7 @@
 - [V2bX 报 API 密钥无效：面板与节点端密钥同步排查](guides/v2bx-invalid-api-key.md)
 
 - [V2bX 更新后节点全部离线：版本回滚与兼容排查](guides/v2bx-update-offline-rollback.md)
+- [V2bX 节点端报 websocket: bad handshake：反代与传输路径排查](guides/v2bx-websocket-bad-handshake.md)
 - ## 适合谁
 
 - 想自己搭机场自用或小圈子分享的
