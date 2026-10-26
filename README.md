@@ -69,6 +69,8 @@
   - - [Xboard 注册验证邮件收不到：SMTP 配置与队列失败排查](guides/xboard-smtp-mail-failed.md)
     - - [Xboard 后台登录报 419 Page Expired：会话与缓存排查](guides/xboard-admin-419-expired.md)
       - [V2bX 节点端报 TLS handshake error：证书、SNI 与时钟三路排查](guides/v2bx-tls-handshake-error.md)
+      - - [V2bX 节点端启动报 bind: address already in use：端口占用排查与释放实操](guides/v2bx-bind-address-in-use.md)
+        - 
 - ## 适合谁
 
 - 想自己搭机场自用或小圈子分享的
