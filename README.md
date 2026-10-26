@@ -62,6 +62,7 @@
 - [V2bX 节点端报 websocket: bad handshake：反代与传输路径排查](guides/v2bx-websocket-bad-handshake.md)
 - [V2bX 在 Debian 12 上报 too many open files：句柄数与连接数调优](guides/v2bx-debian12-too-many-open-files.md)
 - [V2bX 报 context deadline exceeded：面板 API 超时排查](guides/v2bx-context-deadline-exceeded.md)
+- [Xboard 支付回调后订单仍显示待支付：队列与定时任务排查](guides/xboard-pay-callback-queue.md)
 - - [Xboard 支付回调后订单仍显示待支付：队列与定时任务排查](guides/xboard-pay-callback-queue.md)
 - ## 适合谁
 
