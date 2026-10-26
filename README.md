@@ -64,6 +64,7 @@
 - [V2bX 报 context deadline exceeded：面板 API 超时排查](guides/v2bx-context-deadline-exceeded.md)
 - [Xboard 支付回调后订单仍显示待支付：队列与定时任务排查](guides/xboard-pay-callback-queue.md)
 - - [Xboard 支付回调后订单仍显示待支付：队列与定时任务排查](guides/xboard-pay-callback-queue.md)
+  - [Xboard 换域名后订阅全失效：旧域名重定向与订阅迁移实操](guides/xboard-domain-migration-subscription.md)
 - ## 适合谁
 
 - 想自己搭机场自用或小圈子分享的
