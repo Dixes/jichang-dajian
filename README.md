@@ -66,6 +66,7 @@
 - - [Xboard 支付回调后订单仍显示待支付：队列与定时任务排查](guides/xboard-pay-callback-queue.md)
   - [Xboard 换域名后订阅全失效：旧域名重定向与订阅迁移实操](guides/xboard-domain-migration-subscription.md)
   - [Xboard 订阅链接返回 404：路由、缓存与反代排查](guides/xboard-subscription-404.md)
+  - - [Xboard 注册验证邮件收不到：SMTP 配置与队列失败排查](guides/xboard-smtp-mail-failed.md)
 - ## 适合谁
 
 - 想自己搭机场自用或小圈子分享的
